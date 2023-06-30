@@ -9,8 +9,10 @@ const cook = (firstIngredient, secondIngredient) => {
 
 cook(materials[1], materials[0])
 
-console.log('Meals:')
+console.log('MEALS:')
+console.log('---------------')
 for (const meal of meals) {
-    console.log(meal)
+    console.log(meel)
 }
+
 
