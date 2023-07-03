@@ -1,5 +1,5 @@
 # Link’s Kitchen
-<img src="link.jpeg" align="left" width="450px" />
+<img src="link.jpeg" align="left" width="300px" />
 
 ## Part 1
 
