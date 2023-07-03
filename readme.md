@@ -1,5 +1,5 @@
 ## Link’s Kitchen
-<img src="cooking_pot.jpeg" align="left" width="500px" />
+<img src="link.jpeg" align="left" width="400px" />
 
 ### Part 1
 
